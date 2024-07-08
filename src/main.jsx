@@ -4,7 +4,7 @@ import App from "./App";
 import "./styles/app.scss";
 
 
-export const server = "http://localhost:4000/api/v1";
+export const server = "https://todo-backend-4p9y.onrender.com/api/v1";
 
 export const Context = createContext({ isAuthenticated: false });
 
